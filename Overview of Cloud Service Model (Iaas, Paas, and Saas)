@@ -1,0 +1,28 @@
+#Cloud Service Models
+
+Here's a Three big steps: Infrastructure as a service, Platform as a service, and Software as a Service.
+It's easy to understand through the metaphor.
+Iaas: leasing a car
+Paas: renting(short period)a car
+Saas: taking Uber
+
+Complexity
+Iaas >> Paas > Saas
+
+Easy to use for user
+Iaas < Paas < Saas
+
+
+#Infrastructure as a Service
+definition: is a form of cloud computing that delivers fundamental: compute, network, and storage
+to comsumers on-demand, over the internet, on a pay-as-you-go basis.
+
+#Platform as a Service
+definition: is a from of cloud computing model that provides customers "a complete application platform"
+            to develop, deploy manage, and run application created by them or acquired from a third-party.
+
+#Software as a Service
+definition: a cloud offering that providers access to a service provider's cloud-based software.
+
+
+
